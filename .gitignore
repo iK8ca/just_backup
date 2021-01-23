@@ -1,0 +1,19 @@
+# Files and directories created by pub
+.dart_tool/
+.packages
+
+# Conventional directory for build outputs
+build/
+
+# Directory created by dartdoc
+doc/api/
+/.dart_tool/
+/.idea/
+/.local-chromium/
+/.packages
+/analysis_options.yaml
+/CHANGELOG.md
+/example.png
+/pubspec.lock
+/pubspec.yaml
+/README.md
